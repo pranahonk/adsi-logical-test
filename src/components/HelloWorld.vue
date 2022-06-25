@@ -20,7 +20,7 @@ export default {
   },
   data() {
     return {
-      count: 15,
+      count: 9,
     }
   },
 }
